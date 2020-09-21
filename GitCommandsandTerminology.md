@@ -13,4 +13,7 @@ Forks are generally used to propose a change to be made to the project, it creat
 Git branch allows you to create, delete, move, copy and do many more things to a given branch. A branch is simply a pointer to a set of commits, that can demarcate them to a given topic for example, a login functionality for a webpage.
 *git branch* parameter nameOfBranch
 
+## Commit
+A commit takes the current state of the given contents, saves it locally in the working directory and can take a message to describe the changes.
+*git commit* -m "Description of changes"
 
