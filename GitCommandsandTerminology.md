@@ -9,3 +9,8 @@ Clones a repository into a specified directory and will merge the current master
 ## Fork
 Forks are generally used to propose a change to be made to the project, it creates a copy of the main repository of a project to your working space. Then you make whatever desired changes then submit a pull request to the owner of the repository.
 
+## Branch
+Git branch allows you to create, delete, move, copy and do many more things to a given branch. A branch is simply a pointer to a set of commits, that can demarcate them to a given topic for example, a login functionality for a webpage.
+*git branch* parameter nameOfBranch
+
+
