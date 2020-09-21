@@ -21,3 +21,10 @@ A commit takes the current state of the given contents, saves it locally in the 
 Takes changes from staged commits and merges them from one branch to another.
 *git merge* otherRepo
 This will take the updated commit from otherRepo and merge them onto the current branch you are on
+
+## Checkout
+Checkout allows you to move between branches in a repository 
+*git checkout* master
+Switches to master branch
+
+
