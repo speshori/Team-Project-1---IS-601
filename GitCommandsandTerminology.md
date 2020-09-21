@@ -36,4 +36,8 @@ This will push the current branch to the remote repository.
 Used to retrieve and download content from a remote repository. It will first fetch all the content and then merge the remote content into the local repository.
 *git pull* remoteBranch
 
+## Checkout
+Checkout allows you to move between branches in a repository 
+*git checkout* master
+Switches to master branch
 
