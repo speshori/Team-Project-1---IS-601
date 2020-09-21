@@ -13,3 +13,6 @@
 * https://git-scm.com/docs/git-show
 * https://git-scm.com/docs/git-rm
 * https://www.atlassian.com/git/tutorials/inspecting-a-repository#:~:text=The%20git%20status%20command%20displays,regarding%20the%20committed%20project%20history
+* https://www.edureka.co/blog/automation-testing-tutorial/
+* https://apiumhub.com/tech-blog-barcelona/using-github/
+* https://codeship.com/continuous-integration-essentials
