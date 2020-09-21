@@ -27,4 +27,10 @@ Checkout allows you to move between branches in a repository
 *git checkout* master
 Switches to master branch
 
+## Push
+Updates a remote repository with commits from a local repository.
+*git push* remoteRepo branch
+This will push the current branch to the remote repository.
+
+
 
