@@ -10,3 +10,7 @@ Docker is a tool designed to make it easier to create, deploy, and run applicati
 
 ## Automated Testing
 Automation Testing is the process of using the assistance of tools, scripts, and software to perform test cases by repeating pre-defined actions. Test Automation focuses on replacing manual human activity with systems or devices that enhance efficiency. 
+
+
+## Continuous Integration
+Continuous Integration is a software development practice in which you build and test software every time a developer pushes code to the application. One technical advantage of continuous integration and continuous delivery is that it allows you to integrate small pieces of code at one time.
