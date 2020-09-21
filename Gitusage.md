@@ -6,3 +6,7 @@ It makes it easy to contribute to your open source projects,By using GitHub, you
 
 ## Docker
 Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and deploy it as one package.
+
+
+## Automated Testing
+Automation Testing is the process of using the assistance of tools, scripts, and software to perform test cases by repeating pre-defined actions. Test Automation focuses on replacing manual human activity with systems or devices that enhance efficiency. 
