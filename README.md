@@ -7,6 +7,7 @@ Members: Olanrewaju Oyebade, Samir Peshori
 * [**License**](https://github.com/speshori/Team-Project-1---IS-601/blob/master/LICENSE)
 * [**Git Commands and Terminology**](https://github.com/speshori/Team-Project-1---IS-601/blob/master/GitCommandsandTerminology.md)
 * [**Git Usage**](https://github.com/speshori/Team-Project-1---IS-601/blob/master/Gitusage.md)
+* [**Git Flow**](https://github.com/speshori/Team-Project-1---IS-601/blob/master/Gitflow.md)
 * [**Sources**](https://github.com/speshori/Team-Project-1---IS-601/blob/master/Sources.md)
 
 # Changelog
