@@ -16,3 +16,4 @@
 * https://www.edureka.co/blog/automation-testing-tutorial/
 * https://apiumhub.com/tech-blog-barcelona/using-github/
 * https://codeship.com/continuous-integration-essentials
+* https://medium.com/@rafavinnce/gitflow-branch-guide-8a523360c053
