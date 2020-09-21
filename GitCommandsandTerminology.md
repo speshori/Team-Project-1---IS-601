@@ -16,6 +16,7 @@ Git branch allows you to create, delete, move, copy and do many more things to a
 ## Commit
 A commit takes the current state of the given contents, saves it locally in the working directory and can take a message to describe the changes.
 *git commit* -m "Description of changes"
+
 ![Commit Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20191122182103/staging_process.jpg)
 
 ## Merge
