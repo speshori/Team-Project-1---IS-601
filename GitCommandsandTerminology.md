@@ -17,3 +17,7 @@ Git branch allows you to create, delete, move, copy and do many more things to a
 A commit takes the current state of the given contents, saves it locally in the working directory and can take a message to describe the changes.
 *git commit* -m "Description of changes"
 
+## Merge
+Takes changes from staged commits and merges them from one branch to another.
+*git merge* otherRepo
+This will take the updated commit from otherRepo and merge them onto the current branch you are on
