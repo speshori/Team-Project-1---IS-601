@@ -30,6 +30,11 @@ Members: Olanrewaju Oyebade, Samir Peshori
 * Feature: Added Index Section
 * Fix: Corrected Hyperlink Format
 * Feature: Added Changelog
+* Task: Uploaded an image for commit section
+* Update GitCommandsandTerminology.md
+* Task: Uploaded an image for merge section
+* Task: Uploaded an image for checkout section
+* Task: Updated Changelog
 
 **Commits by Olanrewaju Oyebade**
 @slows9911
