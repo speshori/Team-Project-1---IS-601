@@ -44,3 +44,8 @@ Git adds changes that were made in the working area to the staging area
 Git remove removes files from the working branch
 *git rm*
 
+## Status
+Git status allows you to see the state of the staged area and also the current working directory
+*git status*
+
+    
