@@ -23,6 +23,7 @@ A commit takes the current state of the given contents, saves it locally in the 
 Takes changes from staged commits and merges them from one branch to another.
 *git merge* otherRepo
 This will take the updated commit from otherRepo and merge them onto the current branch you are on
+![Merge Diagram](https://wac-cdn.atlassian.com/dam/jcr:83323200-3c57-4c29-9b7e-e67e98745427/Branch-1.png?cdnVersion=1251)
 
 ## Checkout
 Checkout allows you to move between branches in a repository 
