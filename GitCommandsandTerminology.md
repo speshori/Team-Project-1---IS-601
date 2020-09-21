@@ -29,6 +29,7 @@ This will take the updated commit from otherRepo and merge them onto the current
 Checkout allows you to move between branches in a repository 
 *git checkout* master
 Switches to master branch
+![Checkout Diagram](https://static.javatpoint.com/tutorial/git/images/git-checkout.png)
 
 ## Push
 Updates a remote repository with commits from a local repository.
