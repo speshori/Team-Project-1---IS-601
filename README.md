@@ -35,19 +35,19 @@ Members: Olanrewaju Oyebade, Samir Peshori
 **Commits by Olanrewaju Oyebade**
 @slows9911
 
-* Feature :Gitflow added
-* Feature :Create Gitflow.md  
-* Feature :Update README.md
+* Feature: Gitflow added
+* Feature: Create Gitflow.md  
+* Feature: Update README.md
 * FeatureSources Added
 * Updated: Continuous Integration 
 * Merge pull request #7 from speshori/Sources  … 
 * Merge pull request #6 from speshori/Gitusage-2  … 
-* Feature :Added Automated Testing 
-* Feature :Added Automated Testing
+* Feature: Added Automated Testing 
+* Feature: Added Automated Testing
 * Feature: Added Push Section
-* Update Gitusage.md
+* Update: Gitusage.md
 * Feature: Added Checkout Section
-* Update Gitusage.md
+* Update: Gitusage.md
 * Merge pull request #4 from speshori/Gitusage  …
-* Create Gitusage.md
+* Create: Gitusage.md
 * Feature: Added Branch Section
