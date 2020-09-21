@@ -32,5 +32,8 @@ Updates a remote repository with commits from a local repository.
 *git push* remoteRepo branch
 This will push the current branch to the remote repository.
 
+## Pull 
+Used to retrieve and download content from a remote repository. It will first fetch all the content and then merge the remote content into the local repository.
+*git pull* remoteBranch
 
 
